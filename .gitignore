@@ -1,0 +1,24 @@
+# Dependencies
+node_modules/
+
+# Keys and secrets
+*.json
+!package.json
+keys/
+*.pem
+*.key
+
+# Environment
+.env
+.env.*
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
