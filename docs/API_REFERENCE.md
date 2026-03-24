@@ -1,0 +1,1 @@
+runPrompt(prompt: string, options?: PromptOptions): Promise<string>
